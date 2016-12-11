@@ -1,4 +1,4 @@
-# GayaProject2
+# ml-decision-tree
 Project 2 for Machine Learning
 
 Machine Learning - Decision Tree
@@ -9,8 +9,8 @@ The folder GayaProject2 contains the final code for this project
 1. Clone the project
 
   ```
-  $ git clone https://github.com/maheshgaya/GayaProject2.git
-  $ cd GayaProject2/GayaProject2
+  $ git clone https://github.com/maheshgaya/ml-decision-tree.git
+  $ cd ml-decision-tree/GayaProject2
   ```
 2. Run the source code
   
